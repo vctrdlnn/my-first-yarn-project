@@ -1,0 +1,7 @@
+{
+  "name": "yarn_test",
+  "version": "1.0.0",
+  "description": "test de yarn",
+  "main": "index.js",
+  "license": "MIT"
+}
